@@ -1,4 +1,11 @@
 {
-  "email": "tejas@gmail.com",
-  "password": "tejas"
+  "db": [
+    {
+      "email": tejas@gmail.com,
+      "password": "tejas"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
